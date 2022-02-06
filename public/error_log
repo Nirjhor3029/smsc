@@ -1,0 +1,15 @@
+[20-Dec-2021 10:20:56 Asia/Dhaka] PHP Fatal error:  Cannot use App\SmsDetails as SmsDetails because the name is already in use in /home4/jrwuzpmy/public_html/smsc-ekshop-gov-bd/app/Helpers/General.php on line 12
+[20-Dec-2021 10:20:58 Asia/Dhaka] PHP Fatal error:  Cannot use App\SmsDetails as SmsDetails because the name is already in use in /home4/jrwuzpmy/public_html/smsc-ekshop-gov-bd/app/Helpers/General.php on line 12
+[20-Dec-2021 10:21:08 Asia/Dhaka] PHP Fatal error:  Cannot use App\SmsDetails as SmsDetails because the name is already in use in /home4/jrwuzpmy/public_html/smsc-ekshop-gov-bd/app/Helpers/General.php on line 12
+[20-Dec-2021 10:21:31 Asia/Dhaka] PHP Fatal error:  Cannot use App\SmsDetails as SmsDetails because the name is already in use in /home4/jrwuzpmy/public_html/smsc-ekshop-gov-bd/app/Helpers/General.php on line 12
+[20-Dec-2021 10:21:42 Asia/Dhaka] PHP Fatal error:  Cannot use App\SmsDetails as SmsDetails because the name is already in use in /home4/jrwuzpmy/public_html/smsc-ekshop-gov-bd/app/Helpers/General.php on line 12
+[20-Dec-2021 10:21:43 Asia/Dhaka] PHP Fatal error:  Cannot use App\SmsDetails as SmsDetails because the name is already in use in /home4/jrwuzpmy/public_html/smsc-ekshop-gov-bd/app/Helpers/General.php on line 12
+[20-Dec-2021 10:22:08 Asia/Dhaka] PHP Fatal error:  Cannot use App\SmsDetails as SmsDetails because the name is already in use in /home4/jrwuzpmy/public_html/smsc-ekshop-gov-bd/app/Helpers/General.php on line 12
+[20-Dec-2021 10:22:11 Asia/Dhaka] PHP Fatal error:  Cannot use App\SmsDetails as SmsDetails because the name is already in use in /home4/jrwuzpmy/public_html/smsc-ekshop-gov-bd/app/Helpers/General.php on line 12
+[20-Dec-2021 10:22:11 Asia/Dhaka] PHP Fatal error:  Cannot use App\SmsDetails as SmsDetails because the name is already in use in /home4/jrwuzpmy/public_html/smsc-ekshop-gov-bd/app/Helpers/General.php on line 12
+[20-Dec-2021 10:22:13 Asia/Dhaka] PHP Fatal error:  Cannot use App\SmsDetails as SmsDetails because the name is already in use in /home4/jrwuzpmy/public_html/smsc-ekshop-gov-bd/app/Helpers/General.php on line 12
+[20-Dec-2021 10:22:15 Asia/Dhaka] PHP Fatal error:  Cannot use App\SmsDetails as SmsDetails because the name is already in use in /home4/jrwuzpmy/public_html/smsc-ekshop-gov-bd/app/Helpers/General.php on line 12
+[20-Dec-2021 10:22:22 Asia/Dhaka] PHP Fatal error:  Cannot use App\SmsDetails as SmsDetails because the name is already in use in /home4/jrwuzpmy/public_html/smsc-ekshop-gov-bd/app/Helpers/General.php on line 12
+[20-Dec-2021 10:49:02 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '$last' (T_VARIABLE), expecting '(' in /home4/jrwuzpmy/public_html/smsc-ekshop-gov-bd/app/Helpers/General.php on line 234
+[20-Dec-2021 10:49:17 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '$last' (T_VARIABLE), expecting '(' in /home4/jrwuzpmy/public_html/smsc-ekshop-gov-bd/app/Helpers/General.php on line 234
+[20-Dec-2021 10:49:18 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '$last' (T_VARIABLE), expecting '(' in /home4/jrwuzpmy/public_html/smsc-ekshop-gov-bd/app/Helpers/General.php on line 234

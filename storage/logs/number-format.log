@@ -1,0 +1,18 @@
+[2021-12-26 16:42:51] local.INFO: data {"requested_number":"0161236377","detail":{"timestamp":"2021-12-26 16:42:51","formatted_number":"0161236377","error":"Invalid number length","client_ip":"123.49.48.154"}} 
+[2021-12-26 17:24:28] local.INFO: data {"requested_number":"01725221397","detail":{"timestamp":"2021-12-26 17:24:28","formatted_number":"01725221397","error":null,"client_ip":"109.106.254.151"}} 
+[2021-12-26 19:53:56] local.INFO: data {"requested_number":"01845774230","detail":{"timestamp":"2021-12-26 19:53:56","formatted_number":"01845774230","error":null,"client_ip":"109.106.254.151"}} 
+[2021-12-27 13:02:14] local.INFO: data {"requested_number":"01718301214","detail":{"timestamp":"2021-12-27 13:02:14","formatted_number":"01718301214","error":null,"client_ip":"109.106.254.151"}} 
+[2021-12-27 15:21:16] local.INFO: data {"requested_number":"01645970970","detail":{"timestamp":"2021-12-27 15:21:16","formatted_number":"01645970970","error":null,"client_ip":"109.106.254.151"}} 
+[2021-12-27 15:22:43] local.INFO: data {"requested_number":"01645970970","detail":{"timestamp":"2021-12-27 15:22:43","formatted_number":"01645970970","error":null,"client_ip":"109.106.254.151"}} 
+[2021-12-27 15:24:54] local.INFO: data {"requested_number":"01645970970","detail":{"timestamp":"2021-12-27 15:24:54","formatted_number":"01645970970","error":null,"client_ip":"109.106.254.151"}} 
+[2021-12-27 16:08:39] local.INFO: data {"requested_number":"01875204755","detail":{"timestamp":"2021-12-27 16:08:39","formatted_number":"01875204755","error":null,"client_ip":"109.106.254.151"}} 
+[2021-12-27 16:09:10] local.INFO: data {"requested_number":"01715615183","detail":{"timestamp":"2021-12-27 16:09:10","formatted_number":"01715615183","error":null,"client_ip":"109.106.254.151"}} 
+[2021-12-27 16:09:34] local.INFO: data {"requested_number":"01690267929","detail":{"timestamp":"2021-12-27 16:09:34","formatted_number":"01690267929","error":null,"client_ip":"109.106.254.151"}} 
+[2021-12-27 16:13:58] local.INFO: data {"requested_number":"01717515817","detail":{"timestamp":"2021-12-27 16:13:58","formatted_number":"01717515817","error":null,"client_ip":"109.106.254.151"}} 
+[2021-12-27 16:32:17] local.INFO: data {"requested_number":"01645970970","detail":{"timestamp":"2021-12-27 16:32:17","formatted_number":"01645970970","error":null,"client_ip":"109.106.254.151"}} 
+[2021-12-27 17:48:12] local.INFO: data {"requested_number":"01703501496","detail":{"timestamp":"2021-12-27 17:48:12","formatted_number":"01703501496","error":null,"client_ip":"109.106.254.151"}} 
+[2021-12-27 17:56:59] local.INFO: data {"requested_number":"01301917950","detail":{"timestamp":"2021-12-27 17:56:59","formatted_number":"01301917950","error":null,"client_ip":"109.106.254.151"}} 
+[2021-12-27 18:05:28] local.INFO: data {"requested_number":"01711963391","detail":{"timestamp":"2021-12-27 18:05:28","formatted_number":"01711963391","error":null,"client_ip":"109.106.254.151"}} 
+[2021-12-28 00:25:52] local.INFO: data {"requested_number":"01300665412","detail":{"timestamp":"2021-12-28 00:25:52","formatted_number":"01300665412","error":null,"client_ip":"109.106.254.151"}} 
+[2021-12-28 00:52:10] local.INFO: data {"requested_number":"01737506586","detail":{"timestamp":"2021-12-28 00:52:10","formatted_number":"01737506586","error":null,"client_ip":"109.106.254.151"}} 
+[2021-12-28 02:06:52] local.INFO: data {"requested_number":"01786688442","detail":{"timestamp":"2021-12-28 02:06:52","formatted_number":"01786688442","error":null,"client_ip":"109.106.254.151"}} 
